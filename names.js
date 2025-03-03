@@ -5,5 +5,5 @@ function addNames(){
 
     return names
 }
-
+const name="mohamed"
 console.log(addNames())
